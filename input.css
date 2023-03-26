@@ -1,0 +1,12 @@
+
+.inp{
+    width: 800px;
+    padding: 8px;
+    color: brown;
+}
+.inp::shadow{
+    color: bisque;
+}
+/* .inp:hover{
+    /* color: blue; 
+} */
