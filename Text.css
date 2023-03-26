@@ -1,0 +1,15 @@
+
+label{
+    color: blueviolet;
+    font-size: larger;
+}
+.textStyle{
+    padding-left: 40%;
+    padding-top: 10%;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+body{
+    background-color: antiquewhite;
+}
