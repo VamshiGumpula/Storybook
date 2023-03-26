@@ -1,0 +1,15 @@
+
+ #subs{
+   width: 300px;
+   padding: 10px;
+   border: 2px solid black;
+   border-radius: 12px;
+ }
+ .selectStyle{
+    padding-left: 30%;
+    padding-top: 10%;
+ }
+
+body{
+    background-color: antiquewhite;
+}
